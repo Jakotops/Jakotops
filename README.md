@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello World 👋, I'm Jason</h1>
-<h3 align="center">A motivated and ambitious 1st year Computer Science student at the University of Bath</h3>
+<h3 align="center">A motivated and ambitious 2nd year Computer Science student at the University of Bath</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakotops&label=Profile%20views&color=0e75b6&style=flat" alt="jakotops" /> </p>
 
