@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **React Native, Web Development, JavaScript 💻**
 
-- 💬 Ask me about **Python, Java, C, HTML, CSS, Arduino 💡**
+- 💬 Ask me about **Python, Java, C, HTML, CSS, Arduino, AWS Lambda, Firebase Realtime Database💡**
 
-- 📫 How to reach me: **jaf77@bath.ac.uk 📧**
+- 📫 How to reach me: **jaf77@bath.ac.uk  📧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
