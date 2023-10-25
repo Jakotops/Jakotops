@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakotops&label=Profile%20views&color=0e75b6&style=flat" alt="jakotops" /> </p>
 
 
-- 🔭 I’m currently working on **a Steam Chrome Extension**
+- 🔭 I’m currently working on **Mobile App using React Native 📱**
 
-- 🌱 I’m currently learning **React, Web Development, JavaScript**
+- 🌱 I’m currently learning **React Native, Web Development, JavaScript 💻**
 
-- 💬 Ask me about **Python, Java, C, HTML, CSS**
+- 💬 Ask me about **Python, Java, C, HTML, CSS, Arduino 💡**
 
-- 📫 How to reach me: **jaf77@bath.ac.uk**
+- 📫 How to reach me: **jaf77@bath.ac.uk 📧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
